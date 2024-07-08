@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-05T11:20:17 IST" name="Default suite" finished-at="2024-07-05T11:20:59 IST" duration-ms="42068">
+    <groups>
+    </groups>
+    <test started-at="2024-07-05T11:20:17 IST" name="Default test" finished-at="2024-07-05T11:20:59 IST" duration-ms="42068">
+      <class name="Demo.OrangeHRM">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.OrangeHRM@3b69e7d1]" started-at="2024-07-05T11:20:17 IST" name="setup" finished-at="2024-07-05T11:20:20 IST" duration-ms="3532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchEmployeeID()[pri:5, instance:Demo.OrangeHRM@3b69e7d1]" started-at="2024-07-05T11:20:20 IST" name="searchEmployeeID" finished-at="2024-07-05T11:20:53 IST" duration-ms="33183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmployeeID -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Demo.OrangeHRM@3b69e7d1]" started-at="2024-07-05T11:20:54 IST" name="tearDown" finished-at="2024-07-05T11:20:59 IST" duration-ms="5289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Demo.OrangeHRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
